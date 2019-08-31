@@ -7,7 +7,7 @@
 マッチングアプリ[Ruby on Rails, Swift, React]
 通話アプリ[Ruby on Rails, Go]
 
-###　研究
+### 研究
 Pytorch, Unity (非公開)
 
 ### イベント
