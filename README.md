@@ -1,13 +1,35 @@
 # じぶんリリースノート
 
-## 0.21.8-dev
+## 0.21.8
 
 ### 仕事関連
+
+* マッチングアプリ[Ruby on Rails, Swift, React]
+* 通話アプリ[Ruby on Rails, Go]
+
+### 研究
+* Pytorch, Unity (非公開)
+
 ### イベント
+
 ### 本・論文
+* スタンフォード式最高の睡眠
+* Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+* Generative Adversarial Text to Image Synthesis
+
 ### Keep
+
+* 小さい運動, HIIT
+
 ### Problem
+
+* 何を勉強するか、決めて勉強する。
+* 自分や、いろいろなことを管理してくれるツールがほしい。
+
 ### Try
+
+* Unityでなにか作る
+* 自己管理ツールを作る
 
 [じぶんリリースノート" と称した月報を続けて3年が経った](https://blog.a-know.me/entry/2019/02/02/214612) のルールをほぼそのまま利用する。
 
