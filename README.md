@@ -12,9 +12,9 @@
 ### 本・論文
 
 ### KPT
-*Keep
-*Problem
-*Try
+* Keep
+* Problem
+* Try
 
 
 
