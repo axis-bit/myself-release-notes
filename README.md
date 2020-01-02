@@ -1,5 +1,60 @@
 # じぶんリリースノート
 
+
+## 0.21.01
+
+### 仕事関連
+* 通話アプリ[Ruby on Rails, Go]
+* デザインリファレンスサービス(yui.design)[React, Firebase]
+
+### イベント
+
+### 本・論文
+
+### KPT
+*Keep
+*Problem
+*Try
+
+
+
+## 0.21.12
+
+### 仕事関連
+* 通話アプリ[Ruby on Rails, Go]
+* デザインリファレンスサービス(yui.design)[React, Firebase]
+
+
+### イベント
+・Tokyo Forum（東京フォーラム）
+https://www.tokyoforum.tc.u-tokyo.ac.jp/
+
+
+### 本・論文
+・超効率勉強法(メンタリストDaiGo)
+・マインドセット「やればできる! 」の研究(キャロル・S・ドゥエック)
+
+・Spectral Normalization for Generative Adversarial Networks
+https://arxiv.org/abs/1802.05957
+
+
+## 0.21.10
+
+### 仕事関連
+
+* 通話アプリ[Ruby on Rails, Go]
+* カジュアルゲーム制作[Unity]
+* デザインリファレンスサービス[React, Firebase]
+
+### 研究
+* Pytorch
+
+### イベント
+
+### 本・論文
+
+
+
 ## 0.21.11
 
 ### 仕事関連
