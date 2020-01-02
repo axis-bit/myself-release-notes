@@ -26,15 +26,14 @@
 
 
 ### イベント
-・Tokyo Forum（東京フォーラム）
+* Tokyo Forum（東京フォーラム）
 https://www.tokyoforum.tc.u-tokyo.ac.jp/
 
 
 ### 本・論文
-・超効率勉強法(メンタリストDaiGo)
-・マインドセット「やればできる! 」の研究(キャロル・S・ドゥエック)
-
-・Spectral Normalization for Generative Adversarial Networks
+* 超効率勉強法(メンタリストDaiGo)
+* マインドセット「やればできる! 」の研究(キャロル・S・ドゥエック)
+* Spectral Normalization for Generative Adversarial Networks
 https://arxiv.org/abs/1802.05957
 
 
