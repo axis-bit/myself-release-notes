@@ -1,5 +1,31 @@
 # じぶんリリースノート
 
+## 0.21.01
+
+### 仕事関連
+* 通話アプリ[Ruby on Rails, Go]
+* デザインリファレンスサービス(yui.design)[React, Firebase]
+
+### イベント
+・藝大卒展
+・富士山展3.0 - 冨嶽二〇二〇景 - ブロックチェーン×アートの初売り
+・心ある機械たち again
+
+
+### 本・論文
+・メディア アート原論
+・Hacking Growth グロースハック完全読本
+
+### KPT
+* Keep
+瞑想
+
+* Problem
+自分用のNotionのKnowledgeを作りたい。
+
+* Try
+ReactNative
+
 
 ## 0.21.01
 
@@ -11,11 +37,16 @@
 
 ### 本・論文
 
+
 ### KPT
 * Keep
-* Problem
-* Try
+瞑想
 
+* Problem
+未来
+
+* Try
+論文
 
 
 ## 0.21.12
