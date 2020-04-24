@@ -1,6 +1,58 @@
 # じぶんリリースノート
 
-## 0.21.0２
+
+## 0.21.04
+* BigQuery(分析業務）
+
+
+### イベント
+* 色々コロナで中止に
+
+### 本・論文
+・Hacking Growth グロースハック完全読本
+
+### KPT
+
+* Keep
+瞑想・HIIT
+
+* Problem
+目標設定へのアプローチを考えてる。
+いろいろな部分で鶏卵問題
+
+* Try
+本気のBigquery
+
+
+
+## 0.21.03
+
+### 仕事関連
+* BigQuery
+* 通話アプリ[Ruby on Rails, Go, Swift]
+* デザインリファレンスサービス(yui.design)[React, Firebase]
+* ウェブデザイン[gulp, ts, sass]
+* ハイパーカジュアルアプリ[Unity]
+
+### イベント
+* 追い出し
+* 色々コロナで中止に
+
+### 本・論文
+
+
+### KPT
+
+* Keep
+瞑想・HIIT
+
+* Problem
+専門系の質問できる人を見つける
+
+* Try
+本気のBigquery
+
+## 0.21.02
 
 ### 仕事関連
 * 通話アプリ[Ruby on Rails, Go]
