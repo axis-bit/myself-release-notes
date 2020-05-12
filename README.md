@@ -2,7 +2,8 @@
 
 ## 0.21.0
 * BigQuery(分析業務）
-* React(http://yui.design/）
+* React,Redux  
+http://yui.design/
 * Premiere(趣味）
 
 ### イベント
