@@ -1,9 +1,9 @@
 # じぶんリリースノート
 
-## 0.21.0５
+## 0.21.0
 * BigQuery(分析業務）
 * React(http://yui.design/）
-* Premia(趣味で編集）
+* Premiere(趣味）
 
 ### イベント
 * 色々コロナで中止に
@@ -13,14 +13,14 @@
 * 統計学が最強の学問である
 * 決算を読む習慣
 
-
-* Keep
+### KPT
+* Keep  
 瞑想・HIIT
 
-* Problem
+* Problem  
 Keepができてない問題
 
-* Try
+* Try  
 統計学を用いたより細かな目標設定と分析
 
 ## 0.21.04
