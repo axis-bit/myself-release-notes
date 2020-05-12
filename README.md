@@ -1,10 +1,10 @@
 # じぶんリリースノート
 
 ## 0.21.05
-* BigQuery(分析業務）
-* React,Redux  
-http://yui.design/
-* Premiere(趣味）
+* 分析業務[BigQuery]
+* http://yui.design/  
+[React,Redux]
+* 動画編集[Premiere]
 
 ### イベント
 * 色々コロナで中止に
@@ -25,7 +25,7 @@ Keepができてない問題
 統計学を用いたより細かな目標設定と分析
 
 ## 0.21.04
-* BigQuery(分析業務）
+* 分析業務[BigQuery]
 
 
 ### イベント
