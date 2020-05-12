@@ -1,6 +1,6 @@
 # じぶんリリースノート
 
-## 0.21.0
+## 0.21.05
 * BigQuery(分析業務）
 * React,Redux  
 http://yui.design/
