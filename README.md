@@ -1,5 +1,26 @@
 # じぶんリリースノート
 
+## 0.21.06
+* 分析業務[BigQuery]
+* http://yui.design/  
+[React,Redux]
+* 遊びUnity
+
+### イベント
+
+### 本・論文
+* イシューからはじめよ
+
+### KPT
+* Keep  
+英語
+
+* Problem  
+Keepができてない問題
+
+* Try  
+
+
 ## 0.21.05
 * 分析業務[BigQuery]
 * http://yui.design/  
