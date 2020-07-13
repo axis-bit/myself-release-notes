@@ -1,6 +1,6 @@
 # じぶんリリースノート
 
-## 0.21.06
+## 0.22.06
 * 分析業務[BigQuery]
 * http://yui.design/  
 [React,Redux]
@@ -21,7 +21,7 @@ Keepができてない問題
 * Try  
 
 
-## 0.21.05
+## 0.22.05
 * 分析業務[BigQuery]
 * http://yui.design/  
 [React,Redux]
@@ -45,7 +45,7 @@ Keepができてない問題
 * Try  
 統計学を用いたより細かな目標設定と分析
 
-## 0.21.04
+## 0.22.04
 * 分析業務[BigQuery]
 
 
