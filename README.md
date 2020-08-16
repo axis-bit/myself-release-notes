@@ -1,5 +1,28 @@
 # じぶんリリースノート
 
+## 0.22.07
+* 分析業務[BigQuery]
+* 検定
+* http://yui.design/  
+[React,Redux]
+* 遊びUnity
+* 遊びflatter
+
+### イベント
+
+### 本・論文
+* オブジェクト指向UIデザイン
+* 予想通り不合理
+
+### KPT
+* Keep  
+瞑想・HIIT・英単語
+
+* Problem  
+Keepができてない問題（仕組み化したい）
+
+* Try  
+
 ## 0.22.06
 * 分析業務[BigQuery]
 * http://yui.design/  
@@ -13,7 +36,7 @@
 
 ### KPT
 * Keep  
-英語
+英単語
 
 * Problem  
 Keepができてない問題
