@@ -1,31 +1,42 @@
 # じぶんリリースノート
 
-## 0.22.10
+## 0.22.11
+* 分析業務[BigQuery, Python]
+* Nextjs[Hooks]
 
 ### イベント
 ### 本・論文
-### KPT
-* Keep  
-* Problem  
-* Try  
+*ずる　嘘とごまかしの行動経済学
+
+
+## 0.22.10
+* 分析業務[BigQuery, Python]
+* 遊びFlutter
+
+
+### イベント
+### 本・論文
+* 異端の統計学 ベイズ
+* 効果検証入門〜正しい比較のための因果推論／計量経済学の基礎
 
 ## 0.22.09
+* 分析業務[BigQuery, Python]
 
 ### イベント
 ### 本・論文
-### KPT
-* Keep  
-* Problem  
-* Try  
+* データサイエンティスト養成読本 ビジネス活用編
+*
 
 ## 0.22.08
+* 分析業務[BigQuery, Python]
+* 遊びFlutter
 
 ### イベント
 ### 本・論文
-### KPT
-* Keep  
-* Problem  
-* Try  
+* 統計学入門 (基礎統計学)
+* 問いのデザイン: 創造的対話のファシリテーション
+* オブジェクト指向UIデザイン
+
 
 ## 0.22.07
 * 分析業務[BigQuery]
@@ -33,7 +44,7 @@
 * http://yui.design/  
 [React,Redux]
 * 遊びUnity
-* 遊びflatter
+* 遊びFlutter
 
 ### イベント
 
